@@ -24,6 +24,6 @@ This is part of the [Udacity](https://www.udacity.com/course/front-end-web-devel
  
  <h4>Where to Paint:</h4>
  
- - To paint on GitHub.io: [Pixel Art Maker](https://gabe-ng.github.io/fend-pixelartmaker/)
+ - To paint on GitHub.io: [Pixel Art Maker](https://gabe-ng.github.io/Pixel-Art-Maker/)
  - Clone or Download here: [Repository](https://github.com/gabe-ng/fend-pixelartmaker)
 
